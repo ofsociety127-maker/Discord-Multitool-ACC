@@ -1,0 +1,5 @@
+Welcome to our Discord Multi-Tool project — a powerful and feature-packed utility designed to provide a wide range of Discord-related tools in one place. Our goal is to create an efficient, easy-to-use, and visually appealing toolkit for users who want advanced utilities, automation features, server management options, OSINT tools, and much more.
+
+This project was developed with a focus on performance, customization, and user experience. From server utilities and account management tools to network functions and multi-token operations, every feature was built to be practical and reliable.
+
+We are constantly working on improving the tool, adding new features, fixing issues, and making the overall experience better for everyone. Community feedback and support help us continue developing and expanding the project.
